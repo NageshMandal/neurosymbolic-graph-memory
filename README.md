@@ -1,5 +1,5 @@
-Release Name: v0.1.0 — Cognitive Core Init
-Release Date: 📅 September 12, 2025
+## Release Name: v0.1.0 — Cognitive Core Init
+## Release Date: 📅 September 12, 2025
 
 
 # 🧠 NSGM: NeuroSymbolic Graph Memory
